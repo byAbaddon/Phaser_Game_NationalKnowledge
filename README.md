@@ -14,10 +14,13 @@
 - Educational game about: flags, continents, capitals, and code of different countries of the planet.
 
 ## Playing the game
-You control the main character Frog.
-Your goal is to cross the carriageway with cars and the sea using the logs.
-You have to watch out for cars and enemies that will prevent you from reaching the goal.
-You will get points depending on time and bounces.
+You control the arrow buttons to flip through the different flags.
+Before the game you can train.
+In the game, your goal is to find the correct flag.
+In the Pro version of the game, you have to find according to the given flag, the continent, the country, the capital and the code to get a correct answer.
+To unlock the Pro version, you must give five correct answers in the regular game.
+You will get points depending on the correct answers.
+At ten wrong it's game over!
 
 ## Short video intro:
 https://youtu.be/30PFMCjRTx0
