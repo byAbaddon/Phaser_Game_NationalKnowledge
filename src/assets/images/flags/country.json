@@ -1,0 +1,2636 @@
+[
+
+    {
+        "capital": "Kabul",
+        "code": "af",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/af.svg",
+        "flag_4x3": "/4x3/af.svg",
+        "iso": true,
+        "country": "Afghanistan",
+        "population": "41,480,304"
+    },
+    {
+        "capital": "Mariehamn",
+        "code": "ax",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ax.svg",
+        "flag_4x3": "/4x3/ax.svg",
+        "iso": true,
+        "country": "Aland Islands",
+        "population": " 30,129"
+    },
+    {
+        "capital": "Tirana",
+        "code": "al",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/al.svg",
+        "flag_4x3": "/4x3/al.svg",
+        "iso": true,
+        "country": "Albania",
+        "population": "3,074,579"
+    },
+    {
+        "capital": "Algiers",
+        "code": "dz",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/dz.svg",
+        "flag_4x3": "/4x3/dz.svg",
+        "iso": true,
+        "country": "Algeria",
+        "population": "42,972,878"
+    },
+    {
+        "capital": "Pago Pago",
+        "code": "as",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/as.svg",
+        "flag_4x3": "/4x3/as.svg",
+        "iso": true,
+        "country": "American Samoa",
+        "population": "49,437"
+    },
+    {
+        "capital": "Andorra la Vella",
+        "code": "ad",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ad.svg",
+        "flag_4x3": "/4x3/ad.svg",
+        "iso": true,
+        "country": "Andorra",
+        "population": "77,000"
+    },
+    {
+        "capital": "Luanda",
+        "code": "ao",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ao.svg",
+        "flag_4x3": "/4x3/ao.svg",
+        "iso": true,
+        "country": "Angola",
+        "population": "32,522,339"
+    },
+    {
+        "capital": "The Valley",
+        "code": "ai",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ai.svg",
+        "flag_4x3": "/4x3/ai.svg",
+        "iso": true,
+        "country": "Anguilla",
+        "population": "18,090"
+    },
+    {
+        "code": "aq",
+        "flag_1x1": "/1x1/aq.svg",
+        "flag_4x3": "/4x3/aq.svg",
+        "iso": true,
+        "population": "No Information"
+    },
+    {
+        "capital": "St. John's",
+        "code": "ag",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ag.svg",
+        "flag_4x3": "/4x3/ag.svg",
+        "iso": true,
+        "country": "Antigua and Barbuda",
+        "population": "98,179"
+    },
+    {
+        "capital": "Buenos Aires",
+        "code": "ar",
+        "continent": "South America",
+        "flag_1x1": "/1x1/ar.svg",
+        "flag_4x3": "/4x3/ar.svg",
+        "iso": true,
+        "country": "Argentina",
+        "population": "45,479,118"
+    },
+    {
+        "capital": "Yerevan",
+        "code": "am",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/am.svg",
+        "flag_4x3": "/4x3/am.svg",
+        "iso": true,
+        "country": "Armenia",
+        "population": "3,021,324"
+    },
+    {
+        "capital": "Oranjestad",
+        "code": "aw",
+        "continent": "South America",
+        "flag_1x1": "/1x1/aw.svg",
+        "flag_4x3": "/4x3/aw.svg",
+        "iso": true,
+        "country": "Aruba",
+        "population": "119,428"
+    },
+    {
+        "capital": "Georgetown",
+        "code": "ac",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ac.svg",
+        "flag_4x3": "/4x3/ac.svg",
+        "iso": false,
+        "country": "Ascension Island",
+        "population": "806"
+    },
+    {
+        "capital": "Canberra",
+        "code": "au",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/au.svg",
+        "flag_4x3": "/4x3/au.svg",
+        "iso": true,
+        "country": "Australia",
+        "population": "25,466,459"
+    },
+    {
+        "capital": "Vienna",
+        "code": "at",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/at.svg",
+        "flag_4x3": "/4x3/at.svg",
+        "iso": true,
+        "country": "Austria",
+        "population": "8,859,449"
+    },
+    {
+        "capital": "Baku",
+        "code": "az",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/az.svg",
+        "flag_4x3": "/4x3/az.svg",
+        "iso": true,
+        "country": "Azerbaijan",
+        "population": "10,205,810"
+    },
+    {
+        "capital": "Nassau",
+        "code": "bs",
+        "continent": "North America",
+        "flag_1x1": "/1x1/bs.svg",
+        "flag_4x3": "/4x3/bs.svg",
+        "iso": true,
+        "country": "Bahamas",
+        "population": "404,460"
+    },
+    {
+        "capital": "Manama",
+        "code": "bh",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/bh.svg",
+        "flag_4x3": "/4x3/bh.svg",
+        "iso": true,
+        "country": "Bahrain",
+        "population": "1,505,003"
+    },
+    {
+        "capital": "Dhaka",
+        "code": "bd",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/bd.svg",
+        "flag_4x3": "/4x3/bd.svg",
+        "iso": true,
+        "country": "Bangladesh",
+        "population": "162,650,853"
+    },
+    {
+        "capital": "Bridgetown",
+        "code": "bb",
+        "continent": "North America",
+        "flag_1x1": "/1x1/bb.svg",
+        "flag_4x3": "/4x3/bb.svg",
+        "iso": true,
+        "country": "Barbados",
+        "population": "294,560"
+    },
+    {
+        "capital": "Minsk",
+        "code": "by",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/by.svg",
+        "flag_4x3": "/4x3/by.svg",
+        "iso": true,
+        "country": "Belarus",
+        "population": "9,477,918"
+    },
+    {
+        "capital": "Brussels",
+        "code": "be",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/be.svg",
+        "flag_4x3": "/4x3/be.svg",
+        "iso": true,
+        "country": "Belgium",
+        "population": "11,720,716"
+    },
+    {
+        "capital": "Belmopan",
+        "code": "bz",
+        "continent": "North America",
+        "flag_1x1": "/1x1/bz.svg",
+        "flag_4x3": "/4x3/bz.svg",
+        "iso": true,
+        "country": "Belize",
+        "population": "399,598"
+    },
+    {
+        "capital": "Porto-Novo",
+        "code": "bj",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/bj.svg",
+        "flag_4x3": "/4x3/bj.svg",
+        "iso": true,
+        "country": "Benin",
+        "population": "12,864,634"
+    },
+    {
+        "capital": "Hamilton",
+        "code": "bm",
+        "continent": "North America",
+        "flag_1x1": "/1x1/bm.svg",
+        "flag_4x3": "/4x3/bm.svg",
+        "iso": true,
+        "country": "Bermuda",
+        "population": "71,750"
+    },
+    {
+        "capital": "Thimphu",
+        "code": "bt",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/bt.svg",
+        "flag_4x3": "/4x3/bt.svg",
+        "iso": true,
+        "country": "Bhutan",
+        "population": "782,318"
+    },
+    {
+        "capital": "Sucre",
+        "code": "bo",
+        "continent": "South America",
+        "flag_1x1": "/1x1/bo.svg",
+        "flag_4x3": "/4x3/bo.svg",
+        "iso": true,
+        "country": "Bolivia",
+        "population": "11,639,909"
+    },
+    {
+        "capital": "Kralendijk",
+        "code": "bq",
+        "continent": "South America",
+        "flag_1x1": "/1x1/bq.svg",
+        "flag_4x3": "/4x3/bq.svg",
+        "iso": true,
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "population": "27,726"
+    },
+    {
+        "capital": "Sarajevo",
+        "code": "ba",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ba.svg",
+        "flag_4x3": "/4x3/ba.svg",
+        "iso": true,
+        "country": "Bosnia and Herzegovina",
+        "population": "3,835,586"
+    },
+    {
+        "capital": "Gaborone",
+        "code": "bw",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/bw.svg",
+        "flag_4x3": "/4x3/bw.svg",
+        "iso": true,
+        "country": "Botswana",
+        "population": "2,317,233"
+    },
+    {
+        "code": "bv",
+        "flag_1x1": "/1x1/bv.svg",
+        "flag_4x3": "/4x3/bv.svg",
+        "iso": true,
+        "country": "Bouvet Island",
+        "population": "No Information"
+    },
+    {
+        "capital": "Brasília",
+        "code": "br",
+        "continent": "South America",
+        "flag_1x1": "/1x1/br.svg",
+        "flag_4x3": "/4x3/br.svg",
+        "iso": true,
+        "country": "Brazil",
+        "population": "211,715,973"
+    },
+    {
+        "capital": "Diego Garcia",
+        "code": "io",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/io.svg",
+        "flag_4x3": "/4x3/io.svg",
+        "iso": true,
+        "country": "British Indian Ocean Territory",
+        "population": "3,000"
+    },
+    {
+        "capital": "Bandar Seri Begawan",
+        "code": "bn",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/bn.svg",
+        "flag_4x3": "/4x3/bn.svg",
+        "iso": true,
+        "country": "Brunei Darussalam",
+        "population": "460,345"
+    },
+    {
+        "capital": "Sofia",
+        "code": "bg",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/bg.svg",
+        "flag_4x3": "/4x3/bg.svg",
+        "iso": true,
+        "country": "Bulgaria",
+        "population": "6,966,899"
+    },
+    {
+        "capital": "Ouagadougou",
+        "code": "bf",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/bf.svg",
+        "flag_4x3": "/4x3/bf.svg",
+        "iso": true,
+        "country": "Burkina Faso",
+        "population": "20,835,401"
+    },
+    {
+        "capital": "Bujumbura",
+        "code": "bi",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/bi.svg",
+        "flag_4x3": "/4x3/bi.svg",
+        "iso": true,
+        "country": "Burundi",
+        "population": "11,865,821"
+    },
+    {
+        "capital": "Praia",
+        "code": "cv",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/cv.svg",
+        "flag_4x3": "/4x3/cv.svg",
+        "iso": true,
+        "country": "Cabo Verde",
+        "population": "583,255"
+    },
+    {
+        "capital": "Phnom Penh",
+        "code": "kh",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/kh.svg",
+        "flag_4x3": "/4x3/kh.svg",
+        "iso": true,
+        "country": "Cambodia",
+        "population": "16,926,984"
+    },
+    {
+        "capital": "Yaoundé",
+        "code": "cm",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/cm.svg",
+        "flag_4x3": "/4x3/cm.svg",
+        "iso": true,
+        "country": "Cameroon",
+        "population": "27,744,989"
+    },
+    {
+        "capital": "Ottawa",
+        "code": "ca",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ca.svg",
+        "flag_4x3": "/4x3/ca.svg",
+        "iso": true,
+        "country": "Canada",
+        "population": "37,694,085"
+    },
+    {
+        "code": "ic",
+        "flag_1x1": "/1x1/ic.svg",
+        "flag_4x3": "/4x3/ic.svg",
+        "iso": false,
+        "country": "Canary Islands",
+        "population": "2,172,944"
+    },
+    {
+        "code": "es-ct",
+        "flag_1x1": "/1x1/es-ct.svg",
+        "flag_4x3": "/4x3/es-ct.svg",
+        "iso": false,
+        "country": "Catalonia",
+        "population": "7,727,029"
+    },
+    {
+        "capital": "Vitoria-Gasteiz",
+        "code": "es-pv",
+        "flag_1x1": "/1x1/es-pv.svg",
+        "flag_4x3": "/4x3/es-pv.svg",
+        "iso": false,
+        "country": "Basque Country",
+        "population": "3,155,597"
+    },
+    {
+        "capital": "George Town",
+        "code": "ky",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ky.svg",
+        "flag_4x3": "/4x3/ky.svg",
+        "iso": true,
+        "country": "Cayman Islands",
+        "population": "61,944"
+    },
+    {
+        "capital": "Bangui",
+        "code": "cf",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/cf.svg",
+        "flag_4x3": "/4x3/cf.svg",
+        "iso": true,
+        "country": "Central African Republic",
+        "population": "5,990,855"
+    },
+    {
+        "code": "cefta",
+        "flag_1x1": "/1x1/cefta.svg",
+        "flag_4x3": "/4x3/cefta.svg",
+        "iso": false,
+        "country": "Central European Free Trade Agreement",
+        "population": "19,548,563"
+    },
+    {
+        "code": "ea",
+        "flag_1x1": "/1x1/ea.svg",
+        "flag_4x3": "/4x3/ea.svg",
+        "iso": false,
+        "country": "Ceuta & Melilla",
+        "population": "86,284"
+    },
+    {
+        "capital": "N'Djamena",
+        "code": "td",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/td.svg",
+        "flag_4x3": "/4x3/td.svg",
+        "iso": true,
+        "country": "Chad",
+        "population": "16,877,357"
+    },
+    {
+        "capital": "Santiago",
+        "code": "cl",
+        "continent": "South America",
+        "flag_1x1": "/1x1/cl.svg",
+        "flag_4x3": "/4x3/cl.svg",
+        "iso": true,
+        "country": "Chile",
+        "population": "18,186,770"
+    },
+    {
+        "capital": "Beijing",
+        "code": "cn",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/cn.svg",
+        "flag_4x3": "/4x3/cn.svg",
+        "iso": true,
+        "country": "China",
+        "population": "1,394,015,977"
+    },
+    {
+        "capital": "Flying Fish Cove",
+        "code": "cx",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/cx.svg",
+        "flag_4x3": "/4x3/cx.svg",
+        "iso": true,
+        "country": "Christmas Island",
+        "population": "1,692"
+    },
+    {
+        "code": "cp",
+        "flag_1x1": "/1x1/cp.svg",
+        "flag_4x3": "/4x3/cp.svg",
+        "iso": false,
+        "country": "Clipperton Island",
+        "population": "No Information"
+    },
+    {
+        "capital": "West Island",
+        "code": "cc",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/cc.svg",
+        "flag_4x3": "/4x3/cc.svg",
+        "iso": true,
+        "country": "Cocos (Keeling) Islands",
+        "population": "596"
+    },
+    {
+        "capital": "Bogotá",
+        "code": "co",
+        "continent": "South America",
+        "flag_1x1": "/1x1/co.svg",
+        "flag_4x3": "/4x3/co.svg",
+        "iso": true,
+        "country": "Colombia",
+        "population": "49,084,841"
+    },
+    {
+        "capital": "Moroni",
+        "code": "km",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/km.svg",
+        "flag_4x3": "/4x3/km.svg",
+        "iso": true,
+        "country": "Comoros",
+        "population": "846,281"
+    },
+    {
+        "capital": "Avarua",
+        "code": "ck",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/ck.svg",
+        "flag_4x3": "/4x3/ck.svg",
+        "iso": true,
+        "country": "Cook Islands",
+        "population": "8,574"
+    },
+    {
+        "capital": "San José",
+        "code": "cr",
+        "continent": "North America",
+        "flag_1x1": "/1x1/cr.svg",
+        "flag_4x3": "/4x3/cr.svg",
+        "iso": true,
+        "country": "Costa Rica",
+        "population": "5,097,988"
+    },
+    {
+        "capital": "Zagreb",
+        "code": "hr",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/hr.svg",
+        "flag_4x3": "/4x3/hr.svg",
+        "iso": true,
+        "country": "Croatia",
+        "population": "4,227,746"
+    },
+    {
+        "capital": "Havana",
+        "code": "cu",
+        "continent": "North America",
+        "flag_1x1": "/1x1/cu.svg",
+        "flag_4x3": "/4x3/cu.svg",
+        "iso": true,
+        "country": "Cuba",
+        "population": "11,059,062"
+    },
+    {
+        "capital": "Willemstad",
+        "code": "cw",
+        "continent": "South America",
+        "flag_1x1": "/1x1/cw.svg",
+        "flag_4x3": "/4x3/cw.svg",
+        "iso": true,
+        "country": "Curaçao",
+        "population": "166,043" 
+    },
+    {
+        "capital": "Nicosia",
+        "code": "cy",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/cy.svg",
+        "flag_4x3": "/4x3/cy.svg",
+        "iso": true,
+        "country": "Cyprus",
+        "population": "1,266,676"
+    },
+    {
+        "capital": "Prague",
+        "code": "cz",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/cz.svg",
+        "flag_4x3": "/4x3/cz.svg",
+        "iso": true,
+        "country": "Czech Republic",
+        "population": "10,516,707"
+    },
+    {
+        "capital": "Yamoussoukro",
+        "code": "ci",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ci.svg",
+        "flag_4x3": "/4x3/ci.svg",
+        "iso": true,
+        "country": "Côte d'Ivoire",
+        "population": "28,713,423" 
+    },
+    {
+        "capital": "Kinshasa",
+        "code": "cd",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/cd.svg",
+        "flag_4x3": "/4x3/cd.svg",
+        "iso": true,
+        "country": "Democratic Republic of the Congo",
+        "population": "111,859,928"
+    },
+    {
+        "capital": "Copenhagen",
+        "code": "dk",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/dk.svg",
+        "flag_4x3": "/4x3/dk.svg",
+        "iso": true,
+        "country": "Denmark",
+        "population": "5,869,410"
+    },
+    {
+        "code": "dg",
+        "flag_1x1": "/1x1/dg.svg",
+        "flag_4x3": "/4x3/dg.svg",
+        "iso": false,
+        "country": "Diego Garcia",
+        "population": "995"
+    },
+    {
+        "capital": "Djibouti",
+        "code": "dj",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/dj.svg",
+        "flag_4x3": "/4x3/dj.svg",
+        "iso": true,
+        "country": "Djibouti",
+        "population": "921,804"
+    },
+    {
+        "capital": "Roseau",
+        "code": "dm",
+        "continent": "North America",
+        "flag_1x1": "/1x1/dm.svg",
+        "flag_4x3": "/4x3/dm.svg",
+        "iso": true,
+        "country": "Dominica",
+        "population": "74,243"
+    },
+    {
+        "capital": "Santo Domingo",
+        "code": "do",
+        "continent": "North America",
+        "flag_1x1": "/1x1/do.svg",
+        "flag_4x3": "/4x3/do.svg",
+        "iso": true,
+        "country": "Dominican Republic",
+        "population": "10,499,707"
+    },
+    {
+        "capital": "Quito",
+        "code": "ec",
+        "continent": "South America",
+        "flag_1x1": "/1x1/ec.svg",
+        "flag_4x3": "/4x3/ec.svg",
+        "iso": true,
+        "country": "Ecuador",
+        "population": "16,904,867"
+    },
+    {
+        "capital": "Cairo",
+        "code": "eg",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/eg.svg",
+        "flag_4x3": "/4x3/eg.svg",
+        "iso": true,
+        "country": "Egypt",
+        "population": "104,124,440"
+    },
+    {
+        "capital": "San Salvador",
+        "code": "sv",
+        "continent": "North America",
+        "flag_1x1": "/1x1/sv.svg",
+        "flag_4x3": "/4x3/sv.svg",
+        "iso": true,
+        "country": "El Salvador",
+        "population": "6,481,102"
+    },
+    {
+        "capital": "London",
+        "code": "gb-eng",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gb-eng.svg",
+        "flag_4x3": "/4x3/gb-eng.svg",
+        "iso": false,
+        "country": "England",
+        "population": "67,081,234" 
+    },
+    {
+        "capital": "Malabo",
+        "code": "gq",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/gq.svg",
+        "flag_4x3": "/4x3/gq.svg",
+        "iso": true,
+        "country": "Equatorial Guinea",
+        "population": "836,178"
+    },
+    {
+        "capital": "Asmara",
+        "code": "er",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/er.svg",
+        "flag_4x3": "/4x3/er.svg",
+        "iso": true,
+        "country": "Eritrea",
+        "population": "6,081,196"
+    },
+    {
+        "capital": "Tallinn",
+        "code": "ee",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ee.svg",
+        "flag_4x3": "/4x3/ee.svg",
+        "iso": true,
+        "country": "Estonia",
+        "population": "1,228,624"
+    },
+    {
+        "capital": "Lobamba, Mbabane",
+        "code": "sz",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/sz.svg",
+        "flag_4x3": "/4x3/sz.svg",
+        "iso": true,
+        "country": "Eswatini",
+        "population": "1,160,164"
+    },
+    {
+        "capital": "Addis Ababa",
+        "code": "et",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/et.svg",
+        "flag_4x3": "/4x3/et.svg",
+        "iso": true,
+        "country": "Ethiopia",
+        "population": "117,876,227"
+    },
+    {
+        "code": "eu",
+        "flag_1x1": "/1x1/eu.svg",
+        "flag_4x3": "/4x3/eu.svg",
+        "iso": false,
+        "country": "Europe",
+        "population": "No Information"
+    },
+    {
+        "capital": "Stanley",
+        "code": "fk",
+        "continent": "South America",
+        "flag_1x1": "/1x1/fk.svg",
+        "flag_4x3": "/4x3/fk.svg",
+        "iso": true,
+        "country": "Falkland Islands",
+        "population": "3,662"
+    },
+    {
+        "capital": "Tórshavn",
+        "code": "fo",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/fo.svg",
+        "flag_4x3": "/4x3/fo.svg",
+        "iso": true,
+        "country": "Faroe Islands",
+        "population": "52,796"
+    },
+    {
+        "capital": "Palikir",
+        "code": "fm",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/fm.svg",
+        "flag_4x3": "/4x3/fm.svg",
+        "iso": true,
+        "country": "Federated States of Micronesia",
+        "population": "101,009"
+    },
+    {
+        "capital": "Suva",
+        "code": "fj",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/fj.svg",
+        "flag_4x3": "/4x3/fj.svg",
+        "iso": true,
+        "country": "Fiji",
+        "population": "903,207"
+    },
+    {
+        "capital": "Helsinki",
+        "code": "fi",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/fi.svg",
+        "flag_4x3": "/4x3/fi.svg",
+        "iso": true,
+        "country": "Finland",
+        "population": "5,577,872"
+    },
+    {
+        "capital": "Paris",
+        "code": "fr",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/fr.svg",
+        "flag_4x3": "/4x3/fr.svg",
+        "iso": true,
+        "country": "France",
+        "population": "65,480,710"
+    },
+    {
+        "capital": "Cayenne",
+        "code": "gf",
+        "continent": "South America",
+        "flag_1x1": "/1x1/gf.svg",
+        "flag_4x3": "/4x3/gf.svg",
+        "iso": true,
+        "country": "French Guiana",
+        "population": "301,099"
+    },
+    {
+        "capital": "Papeete",
+        "code": "pf",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/pf.svg",
+        "flag_4x3": "/4x3/pf.svg",
+        "iso": true,
+        "country": "French Polynesia",
+        "population": "290,896"
+    },
+    {
+        "capital": "Saint-Pierre, Réunion",
+        "code": "tf",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/tf.svg",
+        "flag_4x3": "/4x3/tf.svg",
+        "iso": true,
+        "country": "French Southern Territories",
+        "population": "No Information"
+    },
+    {
+        "capital": "Libreville",
+        "code": "ga",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ga.svg",
+        "flag_4x3": "/4x3/ga.svg",
+        "iso": true,
+        "country": "Gabon",
+        "population": "2,236,759"
+    },
+    {
+        "code": "es-ga",
+        "flag_1x1": "/1x1/es-ga.svg",
+        "flag_4x3": "/4x3/es-ga.svg",
+        "iso": false,
+        "country": "Galicia",
+        "population": "2,701,819"
+    },
+    {
+        "capital": "Banjul",
+        "code": "gm",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/gm.svg",
+        "flag_4x3": "/4x3/gm.svg",
+        "iso": true,
+        "country": "Gambia",
+        "population": "2,639,916"
+    },
+    {
+        "capital": "Tbilisi",
+        "code": "ge",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/ge.svg",
+        "flag_4x3": "/4x3/ge.svg",
+        "iso": true,
+        "country": "Georgia",
+        "population": "3,830,322"
+    },
+    {
+        "capital": "Berlin",
+        "code": "de",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/de.svg",
+        "flag_4x3": "/4x3/de.svg",
+        "iso": true,
+        "country": "Germany",
+        "population": "83,900,473"
+    },
+    {
+        "capital": "Accra",
+        "code": "gh",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/gh.svg",
+        "flag_4x3": "/4x3/gh.svg",
+        "iso": true,
+        "country": "Ghana",
+        "population": "31,589,978"
+    },
+    {
+        "capital": "Gibraltar",
+        "code": "gi",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gi.svg",
+        "flag_4x3": "/4x3/gi.svg",
+        "iso": true,
+        "country": "Gibraltar",
+        "population": "33,406"
+    },
+    {
+        "capital": "Athens",
+        "code": "gr",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gr.svg",
+        "flag_4x3": "/4x3/gr.svg",
+        "iso": true,
+        "country": "Greece",
+        "population": "10,787,774"
+    },
+    {
+        "capital": "Nuuk",
+        "code": "gl",
+        "continent": "North America",
+        "flag_1x1": "/1x1/gl.svg",
+        "flag_4x3": "/4x3/gl.svg",
+        "iso": true,
+        "country": "Greenland",
+        "population": "56,962"
+    },
+    {
+        "capital": "St. George's",
+        "code": "gd",
+        "continent": "North America",
+        "flag_1x1": "/1x1/gd.svg",
+        "flag_4x3": "/4x3/gd.svg",
+        "iso": true,
+        "country": "Grenada",
+        "population": "111,454"
+    },
+    {
+        "capital": "Basse-Terre",
+        "code": "gp",
+        "continent": "North America",
+        "flag_1x1": "/1x1/gp.svg",
+        "flag_4x3": "/4x3/gp.svg",
+        "iso": true,
+        "country": "Guadeloupe",
+        "population":	"383,559"
+    },
+    {
+        "capital": "Hagåtña",
+        "code": "gu",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/gu.svg",
+        "flag_4x3": "/4x3/gu.svg",
+        "iso": true,
+        "country": "Guam",
+        "population": "183,286"
+    },
+    {
+        "capital": "Guatemala City",
+        "code": "gt",
+        "continent": "North America",
+        "flag_1x1": "/1x1/gt.svg",
+        "flag_4x3": "/4x3/gt.svg",
+        "iso": true,
+        "country": "Guatemala",
+        "population": "17,247,807"
+    },
+    {
+        "capital": "Saint Peter Port",
+        "code": "gg",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gg.svg",
+        "flag_4x3": "/4x3/gg.svg",
+        "iso": true,
+        "country": "Guernsey",
+        "population": "61,359"
+    },
+    {
+        "capital": "Conakry",
+        "code": "gn",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/gn.svg",
+        "flag_4x3": "/4x3/gn.svg",
+        "iso": true,
+        "country": "Guinea",
+        "population": "13,132,792"
+    },
+    {
+        "capital": "Bissau",
+        "code": "gw",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/gw.svg",
+        "flag_4x3": "/4x3/gw.svg",
+        "iso": true,
+        "country": "Guinea-Bissau",
+        "population": "1,967,998"
+    },
+    {
+        "capital": "Georgetown",
+        "code": "gy",
+        "continent": "South America",
+        "flag_1x1": "/1x1/gy.svg",
+        "flag_4x3": "/4x3/gy.svg",
+        "iso": true,
+        "country": "Guyana",
+        "population": "778,140"
+    },
+    {
+        "capital": "Port-au-Prince",
+        "code": "ht",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ht.svg",
+        "flag_4x3": "/4x3/ht.svg",
+        "iso": true,
+        "country": "Haiti",
+        "population": "11,743,017"
+    },
+    {
+        "code": "hm",
+        "flag_1x1": "/1x1/hm.svg",
+        "flag_4x3": "/4x3/hm.svg",
+        "iso": true,
+        "country": "Heard Island and McDonald Islands",
+        "population": "No Information"
+    },
+    {
+        "capital": "Vatican City",
+        "code": "va",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/va.svg",
+        "flag_4x3": "/4x3/va.svg",
+        "iso": true,
+        "country": "Holy See",
+        "population": "453"
+    },
+    {
+        "capital": "Tegucigalpa",
+        "code": "hn",
+        "continent": "North America",
+        "flag_1x1": "/1x1/hn.svg",
+        "flag_4x3": "/4x3/hn.svg",
+        "iso": true,
+        "country": "Honduras",
+        "population": "10,593,642"
+    },
+    {
+        "capital": "Hong Kong",
+        "code": "hk",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/hk.svg",
+        "flag_4x3": "/4x3/hk.svg",
+        "iso": true,
+        "country": "Hong Kong",
+        "population": "7,550,500"
+    },
+    {
+        "capital": "Budapest",
+        "code": "hu",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/hu.svg",
+        "flag_4x3": "/4x3/hu.svg",
+        "iso": true,
+        "country": "Hungary",
+        "population": "9,660,351"
+    },
+    {
+        "capital": "Reykjavik",
+        "code": "is",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/is.svg",
+        "flag_4x3": "/4x3/is.svg",
+        "iso": true,
+        "country": "Iceland",
+        "population": "366,130"
+    },
+    {
+        "capital": "New Delhi",
+        "code": "in",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/in.svg",
+        "flag_4x3": "/4x3/in.svg",
+        "iso": true,
+        "country": "India",
+        "population": "1,428,300,000"
+    },
+    {
+        "capital": "Jakarta",
+        "code": "id",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/id.svg",
+        "flag_4x3": "/4x3/id.svg",
+        "iso": true,
+        "country": "Indonesia",
+        "population": "276,361,783"
+    },
+    {
+        "capital": "Tehran",
+        "code": "ir",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/ir.svg",
+        "flag_4x3": "/4x3/ir.svg",
+        "iso": true,
+        "country": "Iran",
+        "population": "83,992,949"
+    },
+    {
+        "capital": "Baghdad",
+        "code": "iq",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/iq.svg",
+        "flag_4x3": "/4x3/iq.svg",
+        "iso": true,
+        "country": "Iraq",
+        "population": "43,072,274"
+    },
+    {
+        "capital": "Dublin",
+        "code": "ie",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ie.svg",
+        "flag_4x3": "/4x3/ie.svg",
+        "iso": true,
+        "country": "Ireland",
+        "population": "4,988,452"
+    },
+    {
+        "capital": "Douglas",
+        "code": "im",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/im.svg",
+        "flag_4x3": "/4x3/im.svg",
+        "iso": true,
+        "country": "Isle of Man",
+        "population": "85,033"
+    },
+    {
+        "capital": "Jerusalem",
+        "code": "il",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/il.svg",
+        "flag_4x3": "/4x3/il.svg",
+        "iso": true,
+        "country": "Israel",
+        "population": "9,197,590"
+    },
+    {
+        "capital": "Rome",
+        "code": "it",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/it.svg",
+        "flag_4x3": "/4x3/it.svg",
+        "iso": true,
+        "country": "Italy",
+        "population": "60,550,075"
+    },
+    {
+        "capital": "Kingston",
+        "code": "jm",
+        "continent": "North America",
+        "flag_1x1": "/1x1/jm.svg",
+        "flag_4x3": "/4x3/jm.svg",
+        "iso": true,
+        "country": "Jamaica",
+        "population": "3,000,000"
+    },
+    {
+        "capital": "Tokyo",
+        "code": "jp",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/jp.svg",
+        "flag_4x3": "/4x3/jp.svg",
+        "iso": true,
+        "country": "Japan",
+        "population": "126,010,000"
+    },
+    {
+        "capital": "Saint Helier",
+        "code": "je",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/je.svg",
+        "flag_4x3": "/4x3/je.svg",
+        "iso": true,
+        "country": "Jersey",
+        "population": "100,080"
+    },
+    {
+        "capital": "Amman",
+        "code": "jo",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/jo.svg",
+        "flag_4x3": "/4x3/jo.svg",
+        "iso": true,
+        "country": "Jordan",
+        "population": "10,399,270"
+    },
+    {
+        "capital": "Astana",
+        "code": "kz",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/kz.svg",
+        "flag_4x3": "/4x3/kz.svg",
+        "iso": true,
+        "country": "Kazakhstan",
+        "population": "19,057,145"
+    },
+    {
+        "capital": "Nairobi",
+        "code": "ke",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ke.svg",
+        "flag_4x3": "/4x3/ke.svg",
+        "iso": true,
+        "country": "Kenya",
+        "population": "55,963,116"
+    },
+    {
+        "capital": "South Tarawa",
+        "code": "ki",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/ki.svg",
+        "flag_4x3": "/4x3/ki.svg",
+        "iso": true,
+        "country": "Kiribati",
+        "population": "125,000"
+    },
+    {
+        "capital": "Pristina",
+        "code": "xk",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/xk.svg",
+        "flag_4x3": "/4x3/xk.svg",
+        "iso": false,
+        "country": "Kosovo",
+        "population": "1,845,300"
+    },
+    {
+        "capital": "Kuwait City",
+        "code": "kw",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/kw.svg",
+        "flag_4x3": "/4x3/kw.svg",
+        "iso": true,
+        "country": "Kuwait",
+        "population": "4,464,521"
+    },
+    {
+        "capital": "Bishkek",
+        "code": "kg",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/kg.svg",
+        "flag_4x3": "/4x3/kg.svg",
+        "iso": true,
+        "country": "Kyrgyzstan",
+        "population": "6,513,800"
+    },
+    {
+        "capital": "Vientiane",
+        "code": "la",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/la.svg",
+        "flag_4x3": "/4x3/la.svg",
+        "iso": true,
+        "country": "Laos",
+        "population": "7,361,543"
+    },
+    {
+        "capital": "Riga",
+        "code": "lv",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/lv.svg",
+        "flag_4x3": "/4x3/lv.svg",
+        "iso": true,
+        "country": "Latvia",
+        "population": "1,906,743"
+    },
+    {
+        "capital": "Beirut",
+        "code": "lb",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/lb.svg",
+        "flag_4x3": "/4x3/lb.svg",
+        "iso": true,
+        "country": "Lebanon",
+        "population": "6,093,509"
+    },
+    {
+        "capital": "Maseru",
+        "code": "ls",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ls.svg",
+        "flag_4x3": "/4x3/ls.svg",
+        "iso": true,
+        "country": "Lesotho",
+        "population": "2,135,022"
+    },
+    {
+        "capital": "Monrovia",
+        "code": "lr",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/lr.svg",
+        "flag_4x3": "/4x3/lr.svg",
+        "iso": true,
+        "country": "Liberia",
+        "population": "5,323,985"
+    },
+    {
+        "capital": "Tripoli",
+        "code": "ly",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ly.svg",
+        "flag_4x3": "/4x3/ly.svg",
+        "iso": true,
+        "country": "Libya",
+        "population": "7,028,852"
+    },
+    {
+        "capital": "Vaduz",
+        "code": "li",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/li.svg",
+        "flag_4x3": "/4x3/li.svg",
+        "iso": true,
+        "country": "Liechtenstein",
+        "population": "38,128"
+    },
+    {
+        "capital": "Vilnius",
+        "code": "lt",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/lt.svg",
+        "flag_4x3": "/4x3/lt.svg",
+        "iso": true,
+        "country": "Lithuania",
+        "population": "2,739,601"
+    },
+    {
+        "capital": "Luxembourg City",
+        "code": "lu",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/lu.svg",
+        "flag_4x3": "/4x3/lu.svg",
+        "iso": true,
+        "country": "Luxembourg",
+        "population": "633,622"
+    },
+    {
+        "capital": "Macau",
+        "code": "mo",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/mo.svg",
+        "flag_4x3": "/4x3/mo.svg",
+        "iso": true,
+        "country": "Macau",
+        "population": "649,335"
+    },
+    {
+        "capital": "Antananarivo",
+        "code": "mg",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/mg.svg",
+        "flag_4x3": "/4x3/mg.svg",
+        "iso": true,
+        "country": "Madagascar",
+        "population": "27,691,019"
+    },
+    {
+        "capital": "Lilongwe",
+        "code": "mw",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/mw.svg",
+        "flag_4x3": "/4x3/mw.svg",
+        "iso": true,
+        "country": "Malawi",
+        "population": "20,772,249"
+    },
+    {
+        "capital": "Kuala Lumpur",
+        "code": "my",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/my.svg",
+        "flag_4x3": "/4x3/my.svg",
+        "iso": true,
+        "country": "Malaysia",
+        "population": "33,287,142"
+    },
+    {
+        "capital": "Malé",
+        "code": "mv",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/mv.svg",
+        "flag_4x3": "/4x3/mv.svg",
+        "iso": true,
+        "country": "Maldives",
+        "population": "530,953"
+    },
+    {
+        "capital": "Bamako",
+        "code": "ml",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ml.svg",
+        "flag_4x3": "/4x3/ml.svg",
+        "iso": true,
+        "country": "Mali",
+        "population": "22,314,743"
+    },
+    {
+        "capital": "Valletta",
+        "code": "mt",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/mt.svg",
+        "flag_4x3": "/4x3/mt.svg",
+        "iso": true,
+        "country": "Malta",
+        "population": "445,426"
+    },
+    {
+        "capital": "Majuro",
+        "code": "mh",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/mh.svg",
+        "flag_4x3": "/4x3/mh.svg",
+        "iso": true,
+        "country": "Marshall Islands",
+        "population": "59,190"
+    },
+    {
+        "capital": "Fort-de-France",
+        "code": "mq",
+        "continent": "North America",
+        "flag_1x1": "/1x1/mq.svg",
+        "flag_4x3": "/4x3/mq.svg",
+        "iso": true,
+        "country": "Martinique",
+        "population": "374,419"
+    },
+    {
+        "capital": "Nouakchott",
+        "code": "mr",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/mr.svg",
+        "flag_4x3": "/4x3/mr.svg",
+        "iso": true,
+        "country": "Mauritania",
+        "population": "4,810,186"
+    },
+    {
+        "capital": "Port Louis",
+        "code": "mu",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/mu.svg",
+        "flag_4x3": "/4x3/mu.svg",
+        "iso": true,
+        "country": "Mauritius",
+        "population": "1,287,122"
+    },
+    {
+        "capital": "Mamoudzou",
+        "code": "yt",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/yt.svg",
+        "flag_4x3": "/4x3/yt.svg",
+        "iso": true,
+        "country": "Mayotte",
+        "population": "291,978"
+    },
+    {
+        "capital": "Mexico City",
+        "code": "mx",
+        "continent": "North America",
+        "flag_1x1": "/1x1/mx.svg",
+        "flag_4x3": "/4x3/mx.svg",
+        "iso": true,
+        "country": "Mexico",
+        "population": "130,262,216"
+    },
+    {
+        "capital": "Chișinău",
+        "code": "md",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/md.svg",
+        "flag_4x3": "/4x3/md.svg",
+        "iso": true,
+        "country": "Moldova",
+        "population": "2,681,735"
+    },
+    {
+        "capital": "Monaco",
+        "code": "mc",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/mc.svg",
+        "flag_4x3": "/4x3/mc.svg",
+        "iso": true,
+        "country": "Monaco",
+        "population": "38,300"
+    },
+    {
+        "capital": "Ulaanbaatar",
+        "code": "mn",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/mn.svg",
+        "flag_4x3": "/4x3/mn.svg",
+        "iso": true,
+        "country": "Mongolia",
+        "population": "3,298,172"
+    },
+    {
+        "capital": "Podgorica",
+        "code": "me",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/me.svg",
+        "flag_4x3": "/4x3/me.svg",
+        "iso": true,
+        "country": "Montenegro",
+        "population": "628,063"
+    },
+    {
+        "capital": "Little Bay, Brades, Plymouth",
+        "code": "ms",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ms.svg",
+        "flag_4x3": "/4x3/ms.svg",
+        "iso": true,
+        "country": "Montserrat",
+        "population": "4,992"
+    },
+    {
+        "capital": "Rabat",
+        "code": "ma",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ma.svg",
+        "flag_4x3": "/4x3/ma.svg",
+        "iso": true,
+        "country": "Morocco",
+        "population": "37,281,389"
+    },
+    {
+        "capital": "Maputo",
+        "code": "mz",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/mz.svg",
+        "flag_4x3": "/4x3/mz.svg",
+        "iso": true,
+        "country": "Mozambique",
+        "population": "33,721,896"
+    },
+    {
+        "capital": "Naypyidaw",
+        "code": "mm",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/mm.svg",
+        "flag_4x3": "/4x3/mm.svg",
+        "iso": true,
+        "country": "Myanmar",
+        "population": "57,526,449"
+    },
+    {
+        "capital": "Windhoek",
+        "code": "na",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/na.svg",
+        "flag_4x3": "/4x3/na.svg",
+        "iso": true,
+        "country": "Namibia",
+        "population": "2,533,794"
+    },
+    {
+        "capital": "Yaren District",
+        "code": "nr",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/nr.svg",
+        "flag_4x3": "/4x3/nr.svg",
+        "iso": true,
+        "country": "Nauru",
+        "population": "10,674"
+    },
+    {
+        "capital": "Kathmandu",
+        "code": "np",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/np.svg",
+        "flag_4x3": "/4x3/np.svg",
+        "iso": true,
+        "country": "Nepal",
+        "population": "29,609,623"
+    },
+    {
+        "capital": "Amsterdam",
+        "code": "nl",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/nl.svg",
+        "flag_4x3": "/4x3/nl.svg",
+        "iso": true,
+        "country": "Netherlands",
+        "population": "17,134,872"
+    },
+    {
+        "capital": "Nouméa",
+        "code": "nc",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/nc.svg",
+        "flag_4x3": "/4x3/nc.svg",
+        "iso": true,
+        "country": "New Caledonia",
+        "population": "295,491"
+    },
+    {
+        "capital": "Wellington",
+        "code": "nz",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/nz.svg",
+        "flag_4x3": "/4x3/nz.svg",
+        "iso": true,
+        "country": "New Zealand",
+        "population": "4,822,233"
+    },
+    {
+        "capital": "Managua",
+        "code": "ni",
+        "continent": "North America",
+        "flag_1x1": "/1x1/ni.svg",
+        "flag_4x3": "/4x3/ni.svg",
+        "iso": true,
+        "country": "Nicaragua",
+        "population": "6,624,554"
+    },
+    {
+        "capital": "Niamey",
+        "code": "ne",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ne.svg",
+        "flag_4x3": "/4x3/ne.svg",
+        "iso": true,
+        "country": "Niger",
+        "population": "26,537,809"
+    },
+    {
+        "capital": "Abuja",
+        "code": "ng",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ng.svg",
+        "flag_4x3": "/4x3/ng.svg",
+        "iso": true,
+        "country": "Nigeria",
+        "population": "211,400,708"
+    },
+    {
+        "capital": "Alofi",
+        "code": "nu",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/nu.svg",
+        "flag_4x3": "/4x3/nu.svg",
+        "iso": true,
+        "country": "Niue",
+        "population": "1,626"
+    },
+    {
+        "capital": "Kingston",
+        "code": "nf",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/nf.svg",
+        "flag_4x3": "/4x3/nf.svg",
+        "iso": true,
+        "country": "Norfolk Island",
+        "population": "2,188"
+    },
+    {
+        "capital": "Pyongyang",
+        "code": "kp",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/kp.svg",
+        "flag_4x3": "/4x3/kp.svg",
+        "iso": true,
+        "country": "North Korea",
+        "population": "25,971,322" 
+    },
+    {
+        "capital": "Skopje",
+        "code": "mk",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/mk.svg",
+        "flag_4x3": "/4x3/mk.svg",
+        "iso": true,
+        "country": "North Macedonia",
+        "population": "2,083,374"
+    },
+    {
+        "capital": "Belfast",
+        "code": "gb-nir",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gb-nir.svg",
+        "flag_4x3": "/4x3/gb-nir.svg",
+        "iso": false,
+        "country": "Northern Ireland",
+        "population": "1,903,100"
+    },
+    {
+        "capital": "Saipan",
+        "code": "mp",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/mp.svg",
+        "flag_4x3": "/4x3/mp.svg",
+        "iso": true,
+        "country": "Northern Mariana Islands",
+        "population": "53,883"
+    },
+    {
+        "capital": "Oslo",
+        "code": "no",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/no.svg",
+        "flag_4x3": "/4x3/no.svg",
+        "iso": true,
+        "country": "Norway",
+        "population": "5,497,980"
+    },
+    {
+        "capital": "Muscat",
+        "code": "om",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/om.svg",
+        "flag_4x3": "/4x3/om.svg",
+        "iso": true,
+        "country": "Oman",
+        "population": "5,331,057"
+    },
+    {
+        "capital": "Islamabad",
+        "code": "pk",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/pk.svg",
+        "flag_4x3": "/4x3/pk.svg",
+        "iso": true,
+        "country": "Pakistan",
+        "population": "225,199,937"
+    },
+    {
+        "capital": "Ngerulmud",
+        "code": "pw",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/pw.svg",
+        "flag_4x3": "/4x3/pw.svg",
+        "iso": true,
+        "country": "Palau",
+        "population": "18,094"
+    },
+    {
+        "capital": "Panama City",
+        "code": "pa",
+        "continent": "North America",
+        "flag_1x1": "/1x1/pa.svg",
+        "flag_4x3": "/4x3/pa.svg",
+        "iso": true,
+        "country": "Panama",
+        "population": "4,314,767"
+    },
+    {
+        "capital": "Port Moresby",
+        "code": "pg",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/pg.svg",
+        "flag_4x3": "/4x3/pg.svg",
+        "iso": true,
+        "country": "Papua New Guinea",
+        "population": "10,000,000"
+    },
+    {
+        "capital": "Asunción",
+        "code": "py",
+        "continent": "South America",
+        "flag_1x1": "/1x1/py.svg",
+        "flag_4x3": "/4x3/py.svg",
+        "iso": true,
+        "country": "Paraguay",
+        "population": "7,132,538"
+    },
+    {
+        "capital": "Lima",
+        "code": "pe",
+        "continent": "South America",
+        "flag_1x1": "/1x1/pe.svg",
+        "flag_4x3": "/4x3/pe.svg",
+        "iso": true,
+        "country": "Peru",
+        "population": "33,291,590"
+    },
+    {
+        "capital": "Manila",
+        "code": "ph",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/ph.svg",
+        "flag_4x3": "/4x3/ph.svg",
+        "iso": true,
+        "country": "Philippines",
+        "population": "116,885,640"
+    },
+    {
+        "capital": "Adamstown",
+        "code": "pn",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/pn.svg",
+        "flag_4x3": "/4x3/pn.svg",
+        "iso": true,
+        "country": "Pitcairn",
+        "population": "47"
+    },
+    {
+        "capital": "Warsaw",
+        "code": "pl",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/pl.svg",
+        "flag_4x3": "/4x3/pl.svg",
+        "iso": true,
+        "country": "Poland",
+        "population": "37,797,978"
+    },
+    {
+        "capital": "Lisbon",
+        "code": "pt",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/pt.svg",
+        "flag_4x3": "/4x3/pt.svg",
+        "iso": true,
+        "country": "Portugal",
+        "population": "10,295,909"
+    },
+    {
+        "capital": "San Juan",
+        "code": "pr",
+        "continent": "North America",
+        "flag_1x1": "/1x1/pr.svg",
+        "flag_4x3": "/4x3/pr.svg",
+        "iso": true,
+        "country": "Puerto Rico",
+        "population": "3,285,874"
+    },
+    {
+        "capital": "Doha",
+        "code": "qa",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/qa.svg",
+        "flag_4x3": "/4x3/qa.svg",
+        "iso": true,
+        "country": "Qatar",
+        "population": "2,928,339"
+    },
+    {
+        "capital": "Brazzaville",
+        "code": "cg",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/cg.svg",
+        "flag_4x3": "/4x3/cg.svg",
+        "iso": true,
+        "country": "Republic of the Congo",
+        "population": "5,546,307"
+    },
+    {
+        "capital": "Bucharest",
+        "code": "ro",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ro.svg",
+        "flag_4x3": "/4x3/ro.svg",
+        "iso": true,
+        "country": "Romania",
+        "population": "19,587,482"
+    },
+    {
+        "capital": "Moscow",
+        "code": "ru",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ru.svg",
+        "flag_4x3": "/4x3/ru.svg",
+        "iso": true,
+        "country": "Russia",
+        "population": "145,912,025"
+    },
+    {
+        "capital": "Kigali",
+        "code": "rw",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/rw.svg",
+        "flag_4x3": "/4x3/rw.svg",
+        "iso": true,
+        "country": "Rwanda",
+        "population": "13,726,149"
+    },
+    {
+        "capital": "Saint-Denis",
+        "code": "re",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/re.svg",
+        "flag_4x3": "/4x3/re.svg",
+        "iso": true,
+        "country": "Réunion",
+        "population": "913,888"
+    },
+    {
+        "capital": "Gustavia",
+        "code": "bl",
+        "continent": "North America",
+        "flag_1x1": "/1x1/bl.svg",
+        "flag_4x3": "/4x3/bl.svg",
+        "iso": true,
+        "country": "Saint Barthélemy",
+        "population": "9,961"
+    },
+    {
+        "capital": "Jamestown",
+        "code": "sh",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/sh.svg",
+        "flag_4x3": "/4x3/sh.svg",
+        "iso": true,
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "population": "4,534"
+    },
+    {
+        "capital": "Basseterre",
+        "code": "kn",
+        "continent": "North America",
+        "flag_1x1": "/1x1/kn.svg",
+        "flag_4x3": "/4x3/kn.svg",
+        "iso": true,
+        "country": "Saint Kitts and Nevis",
+        "population": "53,455"
+    },
+    {
+        "capital": "Castries",
+        "code": "lc",
+        "continent": "North America",
+        "flag_1x1": "/1x1/lc.svg",
+        "flag_4x3": "/4x3/lc.svg",
+        "iso": true,
+        "country": "Saint Lucia",
+        "population": "185,000"
+    },
+    {
+        "capital": "Marigot",
+        "code": "mf",
+        "continent": "North America",
+        "flag_1x1": "/1x1/mf.svg",
+        "flag_4x3": "/4x3/mf.svg",
+        "iso": true,
+        "country": "Saint Martin",
+        "population": "39,689"
+    },
+    {
+        "capital": "Saint-Pierre",
+        "code": "pm",
+        "continent": "North America",
+        "flag_1x1": "/1x1/pm.svg",
+        "flag_4x3": "/4x3/pm.svg",
+        "iso": true,
+        "country": "Saint Pierre and Miquelon",
+        "population": "5,800"
+    },
+    {
+        "capital": "Kingstown",
+        "code": "vc",
+        "continent": "North America",
+        "flag_1x1": "/1x1/vc.svg",
+        "flag_4x3": "/4x3/vc.svg",
+        "iso": true,
+        "country": "Saint Vincent and the Grenadines",
+        "population": "110,000"
+    },
+    {
+        "capital": "Apia",
+        "code": "ws",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/ws.svg",
+        "flag_4x3": "/4x3/ws.svg",
+        "iso": true,
+        "country": "Samoa",
+        "population": "199,300"
+    },
+    {
+        "capital": "San Marino",
+        "code": "sm",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/sm.svg",
+        "flag_4x3": "/4x3/sm.svg",
+        "iso": true,
+        "country": "San Marino",
+        "population": "33,671"
+    },
+    {
+        "capital": "São Tomé",
+        "code": "st",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/st.svg",
+        "flag_4x3": "/4x3/st.svg",
+        "iso": true,
+        "country": "Sao Tome and Principe",
+        "population": "235,000"
+    },
+    {
+        "capital": "Riyadh",
+        "code": "sa",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/sa.svg",
+        "flag_4x3": "/4x3/sa.svg",
+        "iso": true,
+        "country": "Saudi Arabia",
+        "population": "34,929,545"
+    },
+    {
+        "capital": "Edinburgh",
+        "code": "gb-sct",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gb-sct.svg",
+        "flag_4x3": "/4x3/gb-sct.svg",
+        "iso": false,
+        "country": "Scotland",
+        "population": "5,463,300"
+    },
+    {
+        "capital": "Dakar",
+        "code": "sn",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/sn.svg",
+        "flag_4x3": "/4x3/sn.svg",
+        "iso": true,
+        "country": "Senegal",
+        "population": "18,786,475"
+    },
+    {
+        "capital": "Belgrade",
+        "code": "rs",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/rs.svg",
+        "flag_4x3": "/4x3/rs.svg",
+        "iso": true,
+        "country": "Serbia",
+        "population": "8,772,228"
+    },
+    {
+        "capital": "Victoria",
+        "code": "sc",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/sc.svg",
+        "flag_4x3": "/4x3/sc.svg",
+        "iso": true,
+        "country": "Seychelles",
+        "population": "98,462"
+    },
+    {
+        "capital": "Freetown",
+        "code": "sl",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/sl.svg",
+        "flag_4x3": "/4x3/sl.svg",
+        "iso": true,
+        "country": "Sierra Leone",
+        "population": "8,140,813"
+    },
+    {
+        "capital": "Singapore",
+        "code": "sg",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/sg.svg",
+        "flag_4x3": "/4x3/sg.svg",
+        "iso": true,
+        "country": "Singapore",
+        "population": "5,607,307"
+    },
+    {
+        "capital": "Philipsburg",
+        "code": "sx",
+        "continent": "North America",
+        "flag_1x1": "/1x1/sx.svg",
+        "flag_4x3": "/4x3/sx.svg",
+        "iso": true,
+        "country": "Sint Maarten",
+        "population": "42,882"
+    },
+    {
+        "capital": "Bratislava",
+        "code": "sk",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/sk.svg",
+        "flag_4x3": "/4x3/sk.svg",
+        "iso": true,
+        "country": "Slovakia",
+        "population": "5,459,642"
+    },
+    {
+        "capital": "Ljubljana",
+        "code": "si",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/si.svg",
+        "flag_4x3": "/4x3/si.svg",
+        "iso": true,
+        "country": "Slovenia",
+        "population": "2,100,126"
+    },
+    {
+        "capital": "Honiara",
+        "code": "sb",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/sb.svg",
+        "flag_4x3": "/4x3/sb.svg",
+        "iso": true,
+        "country": "Solomon Islands",
+        "population": "694,786"
+    },
+    {
+        "capital": "Mogadishu",
+        "code": "so",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/so.svg",
+        "flag_4x3": "/4x3/so.svg",
+        "iso": true,
+        "country": "Somalia",
+        "population": "17,104,757"
+    },
+    {
+        "capital": "Pretoria",
+        "code": "za",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/za.svg",
+        "flag_4x3": "/4x3/za.svg",
+        "iso": true,
+        "country": "South Africa",
+        "population": "61,852,354"
+    },
+    {
+        "capital": "King Edward Point",
+        "code": "gs",
+        "continent": "Antarctica",
+        "flag_1x1": "/1x1/gs.svg",
+        "flag_4x3": "/4x3/gs.svg",
+        "iso": true,
+        "country": "South Georgia and the South Sandwich Islands",
+        "population": "33"
+    },
+    {
+        "capital": "Seoul",
+        "code": "kr",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/kr.svg",
+        "flag_4x3": "/4x3/kr.svg",
+        "iso": true,
+        "country": "South Korea",
+        "population": "51,306,333"
+    },
+    {
+        "capital": "Juba",
+        "code": "ss",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ss.svg",
+        "flag_4x3": "/4x3/ss.svg",
+        "iso": true,
+        "country": "South Sudan",
+        "population": "11,882,136"
+    },
+    {
+        "capital": "Madrid",
+        "code": "es",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/es.svg",
+        "flag_4x3": "/4x3/es.svg",
+        "iso": true,
+        "country": "Spain",
+        "population": "47,076,781"
+    },
+    {
+        "capital": "Sri Jayawardenepura Kotte",
+        "code": "lk",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/lk.svg",
+        "flag_4x3": "/4x3/lk.svg",
+        "iso": true,
+        "country": "Sri Lanka",
+        "population": "22,120,000"
+    },
+    {
+        "capital": "Ramallah",
+        "code": "ps",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/ps.svg",
+        "flag_4x3": "/4x3/ps.svg",
+        "iso": true,
+        "country": "State of Palestine",
+        "population": "5,446,626"
+    },
+    {
+        "capital": "Khartoum",
+        "code": "sd",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/sd.svg",
+        "flag_4x3": "/4x3/sd.svg",
+        "iso": true,
+        "country": "Sudan",
+        "population": "44,909,353"
+    },
+    {
+        "capital": "Paramaribo",
+        "code": "sr",
+        "continent": "South America",
+        "flag_1x1": "/1x1/sr.svg",
+        "flag_4x3": "/4x3/sr.svg",
+        "iso": true,
+        "country": "Suricountry",
+        "population": "603,177"
+    },
+    {
+        "capital": "Longyearbyen",
+        "code": "sj",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/sj.svg",
+        "flag_4x3": "/4x3/sj.svg",
+        "iso": true,
+        "country": "Svalbard and Jan Mayen",
+        "population": "2,553"
+    },
+    {
+        "capital": "Stockholm",
+        "code": "se",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/se.svg",
+        "flag_4x3": "/4x3/se.svg",
+        "iso": true,
+        "country": "Sweden",
+        "population": "10,353,452"
+    },
+    {
+        "capital": "Bern",
+        "code": "ch",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ch.svg",
+        "flag_4x3": "/4x3/ch.svg",
+        "iso": true,
+        "country": "Switzerland",
+        "population": "8,729,151"
+    },
+    {
+        "capital": "Damascus",
+        "code": "sy",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/sy.svg",
+        "flag_4x3": "/4x3/sy.svg",
+        "iso": true,
+        "country": "Syria",
+        "population": "18,499,181"
+    },
+    {
+        "capital": "Taipei",
+        "code": "tw",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/tw.svg",
+        "flag_4x3": "/4x3/tw.svg",
+        "iso": true,
+        "country": "Taiwan",
+        "population": "23,558,436"
+    },
+    {
+        "capital": "Dushanbe",
+        "code": "tj",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/tj.svg",
+        "flag_4x3": "/4x3/tj.svg",
+        "iso": true,
+        "country": "Tajikistan",
+        "population": "10,199,175"
+    },
+    {
+        "capital": "Dodoma",
+        "code": "tz",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/tz.svg",
+        "flag_4x3": "/4x3/tz.svg",
+        "iso": true,
+        "country": "Tanzania",
+        "population": "61,969,161"
+    },
+    {
+        "capital": "Bangkok",
+        "code": "th",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/th.svg",
+        "flag_4x3": "/4x3/th.svg",
+        "iso": true,
+        "country": "Thailand",
+        "population": "69,943,959"
+    },
+    {
+        "capital": "Dili",
+        "code": "tl",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/tl.svg",
+        "flag_4x3": "/4x3/tl.svg",
+        "iso": true,
+        "country": "Timor-Leste",
+        "population": "1,343,264"
+    },
+    {
+        "capital": "Lomé",
+        "code": "tg",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/tg.svg",
+        "flag_4x3": "/4x3/tg.svg",
+        "iso": true,
+        "country": "Togo",
+        "population": "8,401,233"
+    },
+    {
+        "capital": "Nukunonu, Atafu,Tokelau",
+        "code": "tk",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/tk.svg",
+        "flag_4x3": "/4x3/tk.svg",
+        "iso": true,
+        "country": "Tokelau",
+        "population": "1,499"
+    },
+    {
+        "capital": "Nukuʻalofa",
+        "code": "to",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/to.svg",
+        "flag_4x3": "/4x3/to.svg",
+        "iso": true,
+        "country": "Tonga",
+        "population": "109,008"
+    },
+    {
+        "capital": "Port of Spain",
+        "code": "tt",
+        "continent": "South America",
+        "flag_1x1": "/1x1/tt.svg",
+        "flag_4x3": "/4x3/tt.svg",
+        "iso": true,
+        "country": "Trinidad and Tobago",
+        "population": "1,414,060"
+    },
+    {
+        "code": "ta",
+        "flag_1x1": "/1x1/ta.svg",
+        "flag_4x3": "/4x3/ta.svg",
+        "iso": false,
+        "country": "Tristan da Cunha",
+        "population": "237"
+    },
+    {
+        "capital": "Tunis",
+        "code": "tn",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/tn.svg",
+        "flag_4x3": "/4x3/tn.svg",
+        "iso": true,
+        "country": "Tunisia",
+        "population": "11,818,619"
+    },
+    {
+        "capital": "Ankara",
+        "code": "tr",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/tr.svg",
+        "flag_4x3": "/4x3/tr.svg",
+        "iso": true,
+        "country": "Turkey",
+        "population": "85,042,763"
+    },
+    {
+        "capital": "Ashgabat",
+        "code": "tm",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/tm.svg",
+        "flag_4x3": "/4x3/tm.svg",
+        "iso": true,
+        "country": "Turkmenistan",
+        "population": "6,178,960"
+    },
+    {
+        "capital": "Cockburn Town",
+        "code": "tc",
+        "continent": "North America",
+        "flag_1x1": "/1x1/tc.svg",
+        "flag_4x3": "/4x3/tc.svg",
+        "iso": true,
+        "country": "Turks and Caicos Islands",
+        "population": "38,717"
+    },
+    {
+        "capital": "Funafuti",
+        "code": "tv",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/tv.svg",
+        "flag_4x3": "/4x3/tv.svg",
+        "iso": true,
+        "country": "Tuvalu",
+        "population": "11,792"
+    },
+    {
+        "capital": "Kampala",
+        "code": "ug",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/ug.svg",
+        "flag_4x3": "/4x3/ug.svg",
+        "iso": true,
+        "country": "Uganda",
+        "population": "47,193,000"
+    },
+    {
+        "capital": "Kiev",
+        "code": "ua",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/ua.svg",
+        "flag_4x3": "/4x3/ua.svg",
+        "iso": true,
+        "country": "Ukraine",
+        "population": "43,733,762"
+    },
+    {
+        "capital": "Abu Dhabi",
+        "code": "ae",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/ae.svg",
+        "flag_4x3": "/4x3/ae.svg",
+        "iso": true,
+        "country": "United Arab Emirates",
+        "population": "10,162,432"
+    },
+    {
+        "capital": "London",
+        "code": "gb",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gb.svg",
+        "flag_4x3": "/4x3/gb.svg",
+        "iso": true,
+        "country": "United Kingdom",
+        "population": "66,834,405"
+    },
+    {
+        "code": "un",
+        "flag_1x1": "/1x1/un.svg",
+        "flag_4x3": "/4x3/un.svg",
+        "iso": false,
+        "country": "United Nations",
+        "population": "No Information"
+    },
+    {
+        "capital": "Washington, D.C.",
+        "code": "um",
+        "continent": "North America",
+        "flag_1x1": "/1x1/um.svg",
+        "flag_4x3": "/4x3/um.svg",
+        "iso": true,
+        "country": "United States Minor Outlying Islands",
+        "population": "No Information"
+    },
+    {
+        "capital": "Washington, D.C.",
+        "code": "us",
+        "continent": "North America",
+        "flag_1x1": "/1x1/us.svg",
+        "flag_4x3": "/4x3/us.svg",
+        "iso": true,
+        "country": "United States of America",
+        "population": "654,322"
+    },
+
+    {
+        "capital": "Montevideo",
+        "code": "uy",
+        "continent": "South America",
+        "flag_1x1": "/1x1/uy.svg",
+        "flag_4x3": "/4x3/uy.svg",
+        "iso": true,
+        "country": "Uruguay",
+        "population": "3,518,552"
+    },
+    {
+        "capital": "Tashkent",
+        "code": "uz",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/uz.svg",
+        "flag_4x3": "/4x3/uz.svg",
+        "iso": true,
+        "country": "Uzbekistan",
+        "population": "35,266,700"
+    },
+    {
+        "capital": "Port Vila",
+        "code": "vu",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/vu.svg",
+        "flag_4x3": "/4x3/vu.svg",
+        "iso": true,
+        "country": "Vanuatu",
+        "population": "319,369"
+    },
+    {
+        "capital": "Caracas",
+        "code": "ve",
+        "continent": "South America",
+        "flag_1x1": "/1x1/ve.svg",
+        "flag_4x3": "/4x3/ve.svg",
+        "iso": true,
+        "country": "Venezuela",
+        "population": "28,390,482"
+    },
+    {
+        "capital": "Hanoi",
+        "code": "vn",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/vn.svg",
+        "flag_4x3": "/4x3/vn.svg",
+        "iso": true,
+        "country": "Vietnam",
+        "population": "98,168,917"
+    },
+    {
+        "capital": "Road Town",
+        "code": "vg",
+        "continent": "North America",
+        "flag_1x1": "/1x1/vg.svg",
+        "flag_4x3": "/4x3/vg.svg",
+        "iso": true,
+        "country": "Virgin Islands (British)",
+        "population": "103,532"
+    },
+    {
+        "capital": "Charlotte Amalie",
+        "code": "vi",
+        "continent": "North America",
+        "flag_1x1": "/1x1/vi.svg",
+        "flag_4x3": "/4x3/vi.svg",
+        "iso": true,
+        "country": "Virgin Islands (U.S.)",
+        "population": "14,543"
+    },
+    {
+        "capital": "Cardiff",
+        "code": "gb-wls",
+        "continent": "Europe",
+        "flag_1x1": "/1x1/gb-wls.svg",
+        "flag_4x3": "/4x3/gb-wls.svg",
+        "iso": false,
+        "country": "Wales",
+        "population": "3,063,456"
+    },
+    {
+        "capital": "Mata-Utu",
+        "code": "wf",
+        "continent": "Oceania",
+        "flag_1x1": "/1x1/wf.svg",
+        "flag_4x3": "/4x3/wf.svg",
+        "iso": true,
+        "country": "Wallis and Futuna",
+        "population": "11,500"
+    },
+    {
+        "capital": "Laayoune",
+        "code": "eh",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/eh.svg",
+        "flag_4x3": "/4x3/eh.svg",
+        "iso": true,
+        "country": "Western Sahara",
+        "population": "652,271"
+    },
+    {
+        "capital": "Sana'a",
+        "code": "ye",
+        "continent": "Asia",
+        "flag_1x1": "/1x1/ye.svg",
+        "flag_4x3": "/4x3/ye.svg",
+        "iso": true,
+        "country": "Yemen",
+        "population": "30,309,760"
+    },
+    {
+        "capital": "Lusaka",
+        "code": "zm",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/zm.svg",
+        "flag_4x3": "/4x3/zm.svg",
+        "iso": true,
+        "country": "Zambia",
+        "population": "18,818,105"
+    },
+    {
+        "capital": "Harare",
+        "code": "zw",
+        "continent": "Africa",
+        "flag_1x1": "/1x1/zw.svg",
+        "flag_4x3": "/4x3/zw.svg",
+        "iso": true,
+        "country": "Zimbabwe",
+        "population": "15,091,513"
+    }
+]
