@@ -1,7 +1,3 @@
-![6](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/e2acac18-5323-4694-87e8-e8163282ba3c)
-![5](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/7cb37bb9-cadb-43c8-b72b-1af542e76393)
-![4](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/f5fbf4bd-5334-4a30-9e49-6b0d2f23c64d)
-![3](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/75380194-165d-49f1-8008-0558369a0f4e)
 # Phaser_Game_NationalKnowledge
 Create game with Phaser @3.60.0 "Miku"
 
