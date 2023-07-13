@@ -1,7 +1,6 @@
 # Phaser_Game_NationalKnowledge
-Create game with Phaser @3.60.0 "Miku"
 
-### A project using:
+### For create game project using:
 + Phaser 3
 + JS
 + Simple - HTML / CSS
