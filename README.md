@@ -35,10 +35,9 @@ https://youtu.be/30PFMCjRTx0
 
 ### Download
 #### Created with Phaser 3 and converted for android mobile app.
+## download apk file:
 https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/releases/tag/NationalKnowledge
-```diff
-- This.
-```
+
 
 ### Prerequisites
 - [Phaser 3](https://phaser.io)
