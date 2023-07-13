@@ -48,6 +48,9 @@ https://youtu.be/30PFMCjRTx0
 ### Developer
 By Abaddon
 
+<br>
+<br>
+
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/) that includes hot-reloading for development and production-ready builds.
 
 This has been updated for Phaser 3.50.0 version and above.
