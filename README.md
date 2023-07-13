@@ -1,6 +1,6 @@
 # Phaser_Game_NationalKnowledge
 
-### For create game project using:
+### Created a project using the:
 + Phaser 3
 + JS
 + Simple - HTML / CSS
