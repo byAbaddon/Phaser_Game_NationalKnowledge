@@ -1,6 +1,54 @@
+![6](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/e2acac18-5323-4694-87e8-e8163282ba3c)
+![5](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/7cb37bb9-cadb-43c8-b72b-1af542e76393)
+![4](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/f5fbf4bd-5334-4a30-9e49-6b0d2f23c64d)
+![3](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/75380194-165d-49f1-8008-0558369a0f4e)
 # Phaser_Game_NationalKnowledge
-Phaser_Game_NationalKnowledge
-# Phaser 3 Webpack Project Template
+Create game with Phaser @3.60.0 "Miku"
+
+### A project of a arcade game 'Frog', using:
++ Phaser 3
++ JS
++ Simple - HTML / CSS
++ webpack
++ bable
++ cordova
++ android stuido
++ +
+
+# Game - NationalKnowledge
+- Educational game about: flags, continents, capitals, and code of different countries of the planet.
+
+## Playing the game
+You control the main character Frog.
+Your goal is to cross the carriageway with cars and the sea using the logs.
+You have to watch out for cars and enemies that will prevent you from reaching the goal.
+You will get points depending on time and bounces.
+
+## Short video intro:
+https://youtu.be/30PFMCjRTx0
+
+## Screenshots:
+![1](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/c3b3057d-5d76-4f16-9a74-0ad2b49e26fd)
+![2](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/4c713f8a-0e52-4543-92b0-777e32adea35)
+![3](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/2d57d213-0e1a-44fd-ad6f-6a886d77954f)
+![4](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/214a36bc-05d4-4fdb-ad57-893865c2d3d8)
+![5](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/c9dc40e5-960a-41e9-a4a6-d8be32f60350)
+![6](https://github.com/byAbaddon/Phaser_Game_NationalKnowledge/assets/51271834/4c541fec-bf0f-47c7-837c-f09c104d3295)
+
+### Download
+#### Created with Phaser 3 and converted for android mobile app.
+
+```diff
+- This.
+```
+
+### Prerequisites
+- [Phaser 3](https://phaser.io)
+#### Year:
+2023
+
+### Developer
+By Abaddon
 
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/) that includes hot-reloading for development and production-ready builds.
 
