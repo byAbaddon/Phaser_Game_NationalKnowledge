@@ -6,6 +6,7 @@ import createText from "./functions/createText";
 import createAnimation from "./functions/createAnimation";
 import * as tweenAnimation from "./functions/createTween";
 
+import { LoadScene } from "./scenes/loadScene";
 import { IntroScene } from "./scenes/introScene";
 import { MenuScene } from "./scenes/menuScene";
 import { GameLearningScene } from './scenes/gameLearningScene'
@@ -23,7 +24,7 @@ const cfg = {
   type: Phaser.AUTO,
   // type: Phaser.CANVAS,
   parent: 'game',
-  scene: [IntroScene, MenuScene,GameLearningScene, GameScene, GameScenePro,  CreditsScene, GameOverScene,],
+  scene: [LoadScene, IntroScene, MenuScene,GameLearningScene, GameScene, GameScenePro,  CreditsScene, GameOverScene,],
   physics: {
     default: 'arcade',
     arcade: {
